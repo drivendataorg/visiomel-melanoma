@@ -1,0 +1,31 @@
+name: visiomel3
+channels:
+- nvidia
+- conda-forge
+- bioconda
+- defaults
+- pytorch
+dependencies:
+- _ipyw_jlab_nb_ext_conf=0.1.0
+- anaconda-navigator=2.4.0
+- conda=23.1.0
+- conda-build=3.23.3
+- conda-env=2.6.0
+- conda-verify=3.4.2
+- ipdb=0.13.11
+- kornia=0.6.10
+- matplotlib=3.7.1
+- navigator-updater=0.3.0
+- numpy=1.24.2
+- openslide-python=1.2.0
+- pandas=1.5.3
+- python=3.9.16
+- pytorch=2.0.0
+- pytorch-cuda=11.7
+- scikit-image=0.19.3
+- scikit-learn=1.2.2
+- scipy=1.10.1
+- seaborn=0.12.2
+- torchaudio=2.0.0
+- torchvision=0.15.0
+- tk=8.6.12
