@@ -12,10 +12,7 @@ Melanoma is a cancer of the skin which develops from cells responsible for skin 
 
 Patients are initially diagnosed with melanoma after a pathologist examines a portion of the cancerous tissue under a microscope. At this stage, the pathologist assesses the risk of relapse—a return of cancerous cells after the melanoma has been treated—based on information such as the thickness of the tumor and the presence of an ulceration. Combined with factors such as age, sex, and medical history of the patient, these microscopic observations can help a dermatologist assess the severity of the disease and determine appropriate surgical and medical treatment. Preventative treatments can be administered to patients with high likelihood for relapse. However, these are costly and expose patients to significant drug toxicity.
 
-**Assessing the risk of relapse therefore a vital but difficult task.** It requires specialized training and careful examination of microscopic tissue. Currently, machine learning approaches can help analyze [whole slide images (WSIs)](https://en.wikipedia.org/wiki/Digital_pathology) for basic tasks like measuring area. However, computer vision has also shown some potential in classifying tumor subtypes, and in time may serve as a powerful tool to aid pathologists in making the most accurate diagnosis and prognosis. <sup>[3](https://www.nature.com/articles/s41598-022-24315-1), [4](https://www.sciencedirect.com/science/article/pii/S215335392200743X), [5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8635121/)</sup>
-
-
-The goal of this challenge was to predict whether a relapse will occur in the 5 years following the initial diagnosis using digitized versions of microscopic slides.
+Assessing the risk of relapse therefore a vital but difficult task. **The goal of this challenge was to predict whether a relapse will occur in the 5 years following the initial diagnosis using digitized versions of microscopic slides.**
 
 ## What's in this Repository
 
