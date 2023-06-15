@@ -32,3 +32,5 @@ This repository contains code from winning competitors in the [VisioMel Challeng
 Additional solution details can be found in the `reports` folder inside the directory for each submission.
 
 *The participant declined to release their code.
+
+**Benchmark blog post: [Predicting Melanoma Relapse](https://drivendata.co/blog/visiomel-melanoma-benchmark)**
