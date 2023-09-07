@@ -3,7 +3,6 @@
 
 ![Banner Image](https://drivendata-public-assets.s3.amazonaws.com/visiomel_banner_img.jpeg)
 
-
 # VisioMel Challenge: Predicting Melanoma Relapse
 
 ## Goal of the Competition
@@ -16,7 +15,7 @@ Patients are initially diagnosed with melanoma after a pathologist examines a po
 
 ## What's in this Repository
 
-This repository contains code from winning competitors in the [VisioMel Challenge: Predicting Melanoma Relapse](https://www.drivendata.org/competitions/148/visiomel-melanoma/) DrivenData challenge.
+This repository contains code from winning competitors in the [VisioMel Challenge: Predicting Melanoma Relapse](https://www.drivendata.org/competitions/148/visiomel-melanoma/) DrivenData challenge. Code for all winning solutions are open source under the MIT License.
 
 **Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
@@ -32,5 +31,7 @@ This repository contains code from winning competitors in the [VisioMel Challeng
 Additional solution details can be found in the `reports` folder inside the directory for each submission.
 
 *The participant declined to release their code.
+
+**Winners announcement: [Meet the Winners of the VisioMel Challenge](https://drivendata.co/blog/visiomel-melanoma-winners)**
 
 **Benchmark blog post: [Predicting Melanoma Relapse](https://drivendata.co/blog/visiomel-melanoma-benchmark)**
